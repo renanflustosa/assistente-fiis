@@ -1,8 +1,8 @@
 {
-  "name": "aporte-fii",
+  "name": "assistente-fiis",
   "description": "CLI que sugere o aporte mensal em FIIs para uma carteira de renda mensal",
   "license": "MIT",
-  "repository": "github:renanflustosa/aporte-fii",
+  "repository": "github:renanflustosa/assistente-fiis",
   "private": true,
   "type": "module",
   "engines": {
