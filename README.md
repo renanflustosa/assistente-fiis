@@ -1,4 +1,4 @@
-# aporte-fii
+# assistente-fiis
 
 CLI que diz em quais FIIs pôr o aporte do mês, para uma carteira de longo prazo focada em renda mensal. Ela nunca sugere venda: o rebalanceamento acontece só pelos aportes.
 
